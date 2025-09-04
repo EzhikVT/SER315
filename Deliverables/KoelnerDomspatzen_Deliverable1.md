@@ -36,7 +36,7 @@ Brynn Ayers, Nathan Jordan, Stephen Lee, Brandon Navarrete, Tamara Sopoyeva
 **Contributions:** 
 
 ### Tamara Sopoyeva
-**Contributions:** 
+**Contributions:** Test
 
 ## Meeting Overview
 
